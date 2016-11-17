@@ -1,6 +1,6 @@
 Hey :wave:,
 
-I made this purposefully challenging so don't expect to breeze through this but it should give you some good fundamentals :grin:
+These are a few code challenges you can work on if you want to learn javascript. These are meant for designers/non-developers who would like to learn Javascript. Don't expect to breeze through this but it should give you some good fundamentals if you get through it :grin:
 
 
 ### Setup
